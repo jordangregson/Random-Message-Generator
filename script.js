@@ -1,4 +1,4 @@
-var button = document.getElementById("submitBtn");
+var button = document.getElementById("button");
 
 button.addEventListener('click', function(){
     var messages = ["is great", "is awesome", "is spectacular"];
