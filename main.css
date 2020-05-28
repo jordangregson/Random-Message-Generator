@@ -45,6 +45,7 @@ body{
 @media (max-width: 800px){
     #intro{
         padding-top: 20vh;
+        text-align: center;
     }
     
     #textbox{
@@ -54,4 +55,10 @@ body{
     #button{
         width: 20vw;
     }
+
+    #message{
+        text-align: center;
+    }
+
+
 }
